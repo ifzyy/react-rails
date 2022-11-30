@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:amejid/hello-rails-react.git
+  git clone git@github.com:ifzyy/react-rails.git
 ```
 
 ### Install
@@ -130,13 +130,13 @@ You can deploy this project using:
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Ojesanmi Elizabet Oyin**
+👤 **Johnson Emmanuel**
 
-- GitHub: [@Lizdev-05](https://github.com/Lizdev-05)
+- GitHub: [@Johnson](https://github.com/ifzyy)
 
-- Twitter: [@ojesanmi_oyin](https://twitter.com/ojesanmi_oyin)
+- Twitter: [@Johnson](https://twitter.com/Johnsn_Emmanuel)
 
-- LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
+- LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/johnson-emmanuel)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
