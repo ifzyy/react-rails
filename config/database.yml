@@ -26,13 +26,13 @@ default: &default
 
 development:
   <<: *default
-  database: react_rails_development
+  database: hello_react_rails_development
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user running Rails.
-  #username: react_rails
+  #username: hello_react_rails
 
   # The password associated with the postgres role (username).
   #password:
@@ -60,7 +60,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: react_rails_test
+  database: hello_react_rails_test
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -84,6 +84,6 @@ test:
 #
 production:
   <<: *default
-  database: react_rails_production
-  username: react_rails
-  password: <%= ENV["REACT_RAILS_DATABASE_PASSWORD"] %>
+  database: hello_react_rails_production
+  username: hello_react_rails
+  password: <%= ENV["HELLO_REACT_RAILS_DATABASE_PASSWORD"] %>
