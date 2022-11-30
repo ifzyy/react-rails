@@ -136,7 +136,7 @@ You can deploy this project using:
 
 - Twitter: [@Johnson](https://twitter.com/Johnsn_Emmanuel)
 
-- LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/johnson-emmanuel)
+- LinkedIn: [@Johnson](https://www.linkedin.com/in/johnson-emmanuel)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
